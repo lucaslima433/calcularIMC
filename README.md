@@ -1,2 +1,2 @@
 # calcularIMC
-Calculadora de IMC v1.0.0
+Calculadora de IMC feita por mim
