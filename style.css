@@ -1,0 +1,50 @@
+body{
+    font: normal 15pt arial;
+    background-color: cornsilk;
+}
+
+header {
+    text-align: center;
+}
+
+section{
+    background: aliceblue;
+    border-radius: 10px;
+    width: 250px;
+    padding: 15px;
+    
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.39);
+
+    text-align: center;
+}
+
+footer{
+    margin-top: 3em;
+    text-align: center;
+    font-style: italic;
+}
+
+input {
+    border-radius: 8px;
+    height: 20px;
+}
+
+.labelnames {
+    font-size: 12pt;
+}
+
+#inputbutton {
+    margin-top: 20px;
+    box-sizing: border-box;
+    height: 30px;
+    width: 110px;
+
+    color: white;
+    background-color: darkgrey;
+    transition: ease .2s;
+}
+
+#inputbutton:hover {
+    background-color: rgb(75, 75, 75);
+}
